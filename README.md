@@ -11,11 +11,13 @@ Hello, I am Keemoir 😎 aged 22 👶‍♂️, a tech geek 💻👨‍💻 who'
 
 - 📝 I regularly write articles on [My Blog](https://blog.keemo.co)
 
-- 📫 How to reach me [Mail](mailto:keemoir@gmail.com)
+- 📫 How to reach me [Mail↗](mailto:keemoir@gmail.com)
 
-- 📄 Know about my experiences [Look](https://blog.keemo.co)
+- 📄 Know about my experiences [Look↗](https://blog.keemo.co)
 
-- ⚡ Follow my social platforms [Go](https://bento.me/keemoir) ...
+- ⚡ Follow my social platforms [Go↗](https://bento.me/keemoir) 
+
+- 💬 ...
 
 
 
