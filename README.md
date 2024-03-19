@@ -7,15 +7,15 @@ Hello, I am Keemoir 😎 aged 22 👶‍♂️, a tech geek 💻👨‍💻 who'
 
 "The strange pomelo tree, waving its teeth and claws in the scorching heat, each color tone is absurd, like black pupils, trying to capture the beauty."
 
-- 👨‍💻 All of my projects are available at [Me](https://hevuan.me)
+- 👨‍💻 All of my projects are available at [MyPage](https://hevuan.me)
 
-- 📝 I regularly write articles on [Keemoir's Blog](https://blog.keemo.co)
+- 📝 I regularly write articles on [My Blog](https://blog.keemo.co)
 
 - 📫 How to reach me [Mail](mailto:keemoir@gmail.com)
 
-- 📄 Know about my experiences [Click here](https://blog.keemo.co)
+- 📄 Know about my experiences [Look](https://blog.keemo.co)
 
-- ⚡ Follow my social platforms [on](https://bento.me/keemoir) ...
+- ⚡ Follow my social platforms [Go](https://bento.me/keemoir) ...
 
 
 
@@ -24,7 +24,7 @@ Hello, I am Keemoir 😎 aged 22 👶‍♂️, a tech geek 💻👨‍💻 who'
 <img src="https://count.getloli.com/get/@:keemoir" alt=":keemoir" />
 
 <div align="left" style="text-align: left;">
-<h3 align="left">🎨<b>Keemoir's Github data statistics:</b></h3>
+<h3 align="left">🎨<b>Github data statistics:</b></h3>
 <img src="https://img.shields.io/badge/any_text-you_like-blue" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keemoir&show_icons=true&theme=radical)
