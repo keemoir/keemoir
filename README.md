@@ -17,7 +17,7 @@ Hello, I am Keemoir 😎 aged 22 👶‍♂️, a tech geek 💻👨‍💻 who'
 
 - ⚡ Follow my social platforms [Go↗](https://bento.me/keemoir) 
 
-- 💬 ...
+- 💬 More to be added...
 
 
 
