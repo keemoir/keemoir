@@ -27,7 +27,7 @@ Hello, I am Keemoir 😎 aged 22 👶‍♂️, a tech geek 💻👨‍💻 who'
 
 <div align="left" style="text-align: left;">
 <h3 align="left">🎨<b>Github data statistics:</b></h3>
-<img src="https://img.shields.io/badge/any_text-you_like-blue" />
+<img src="https://img.shields.io/badge/for_your-for_ours-blue" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keemoir&show_icons=true&theme=radical)
 
