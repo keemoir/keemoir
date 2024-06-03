@@ -13,9 +13,9 @@ Hello, I am Keemoir 😎 aged 22 👶‍♂️, a tech geek 💻👨‍💻 who'
 
 - 📫 How to reach me [Mail↗](mailto:keemoir@gmail.com)
 
-- 📄 Know about my experiences [Look↗](https://origz.com/me.html)
+- 📄 Know about my experiences [Look↗](https://origz.com/me)
 
-- ⚡ Follow my social platforms [Go↗](https://bento.me/keemoir) 
+- ⚡ Follow my social platforms [Go↗](https://vlink.cc/keemoir) 
 
 - 💬 More to be added...
 
