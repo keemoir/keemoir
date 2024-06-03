@@ -9,11 +9,11 @@ Hello, I am Keemoir 😎 aged 22 👶‍♂️, a tech geek 💻👨‍💻 who'
 
 - 👨‍💻 All of my projects are available at [MyPage](https://keemoir.github.io)
 
-- 📝 I regularly write articles on [My Blog](https://blog.keemox.cn)
+- 📝 I regularly write articles on [My Blog](https://blog.origz.com)
 
 - 📫 How to reach me [Mail↗](mailto:keemoir@gmail.com)
 
-- 📄 Know about my experiences [Look↗](https://blog.keemo.co)
+- 📄 Know about my experiences [Look↗](https://origz.com/me.html)
 
 - ⚡ Follow my social platforms [Go↗](https://bento.me/keemoir) 
 
