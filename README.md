@@ -1,7 +1,7 @@
-<h2 align="center">Hi 👋, I'm Keemoir</h2>
+<h2 align="center">Hi 👋, I'm Keemo</h2>
 <h3 align="center">The world is as wide as a man can walk</h3>
 
-Hello, I am Keemoir 😎 aged 22 👶‍♂️, a tech geek 💻👨‍💻 who's totally smitten with 🌟 everything around here and is super curious about this fascinating world 🌎🌍🌏 (and maybe you too 😉).
+Hello, I am Keemo 😎 aged 22 👶‍♂️, a tech geek 💻👨‍💻 who's totally smitten with 🌟 everything around here and is super curious about this fascinating world 🌎🌍🌏 (and maybe you too 😉).
 
 "Those who think it's the result are actually starting every stop, every stop, and every segment."
 
