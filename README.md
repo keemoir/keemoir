@@ -7,15 +7,15 @@ Hello, I am Yuriel 😎 aged 22 👶‍♂️, a tech geek 💻👨‍💻 who's
 
 "The strange pomelo tree, waving its teeth and claws in the scorching heat, each color tone is absurd, like black pupils, trying to capture the beauty."
 
-- 👨‍💻 All of my projects are available at [MyPage](https://keemoir.github.io)
+- 👨‍💻 All of my projects are available at [MyPage](https://yuriels.github.io)
 
 - 📝 I regularly write articles on [My Blog](https://blog.origz.com)
 
-- 📫 How to reach me [Mail↗](mailto:keemoir@gmail.com)
+- 📫 How to reach me [Mail↗](mailto:yurielsx@gmail.com)
 
 - 📄 Know about my experiences [Look↗](https://origz.com/me)
 
-- ⚡ Follow my social platforms [Go↗](https://vlink.cc/keemoir) 
+- ⚡ Follow my social platforms [Go↗](https://vlink.cc/yuriels) 
 
 - 💬 More to be added...
 
